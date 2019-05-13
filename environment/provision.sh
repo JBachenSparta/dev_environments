@@ -11,4 +11,3 @@ sudo npm install -g pm2
 
 cd /app
 pm2 start app.js
-vagrant ssh
